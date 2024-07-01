@@ -3,8 +3,7 @@
 /** ******* Imports ********/
 
 const {
-  /* The following functions are all of the cryptographic
-  primatives that you should need for this assignment.
+  /* cryptographic primatives used.
   See lib.js for details on usage. */
   byteArrayToString,
   genRandomSalt,
